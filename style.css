@@ -1,7 +1,6 @@
 .parent{
     position: static;
     top: 0;
-    height: 50%;
     background-color: aqua;
     padding: 5px;
 }
